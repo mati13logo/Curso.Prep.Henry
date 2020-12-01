@@ -1,0 +1,1 @@
+Arrays: el arreglo es un grupo de cosas, que pueden ser numeros, cadenas, funciones, etc. con un cierto orden dentro del mismo. 
